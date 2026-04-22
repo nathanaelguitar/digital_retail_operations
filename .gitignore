@@ -1,5 +1,6 @@
-# Large dataset files
-*.csv
+# Large dataset files (too big for GitHub)
+orders.csv
+all_order_products.csv
 *.parquet
 
 # Python
