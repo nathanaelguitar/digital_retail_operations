@@ -1,0 +1,5 @@
+focus_area,finding,recommended_action
+Demand timing,The busiest operating window is Tuesday and the peak hour is 10.,"Prioritize staffing, picking capacity, and slot availability during the strongest demand windows."
+Top products,Banana appears as the most frequently purchased product in the dataset slice used for basket analysis.,Protect availability for top-volume products and use them as anchor items in inventory planning.
+Cross-sell,A strong rule is 'Organic Garlic' -> 'Organic Yellow Onion' with lift 3.04.,"Use the top rules for recommendation widgets, bundle prompts, and merchandising tests."
+Staffing,The highest suggested staffing level in the current model is 65 shoppers at hour 10 on Tuesday.,"Use the staffing table as the operational baseline, then recalibrate costs and shopper productivity assumptions with business input."

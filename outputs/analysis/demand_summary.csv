@@ -1,0 +1,5 @@
+metric,value,order_count
+busiest_hour,10,282470
+slowest_hour,3,5343
+busiest_day,Tuesday,542103
+slowest_day,Sunday,442564

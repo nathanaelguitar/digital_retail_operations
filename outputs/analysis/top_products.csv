@@ -1,0 +1,26 @@
+product_id,order_count,product_name,aisle_id,department_id
+24852,491291.0,Banana,24,4
+13176,394930.0,Bag of Organic Bananas,24,4
+21137,275577.0,Organic Strawberries,24,4
+21903,251705.0,Organic Baby Spinach,123,4
+47209,220877.0,Organic Hass Avocado,24,4
+47766,184224.0,Organic Avocado,24,4
+47626,160792.0,Large Lemon,24,4
+16797,149445.0,Strawberries,24,4
+26209,146660.0,Limes,24,4
+27845,142813.0,Organic Whole Milk,84,16
+27966,142603.0,Organic Raspberries,123,4
+22935,117716.0,Organic Yellow Onion,83,4
+24964,113936.0,Organic Garlic,83,4
+45007,109412.0,Organic Zucchini,83,4
+39275,105026.0,Organic Blueberries,123,4
+49683,99728.0,Cucumber Kirby,83,4
+28204,92889.0,Organic Fuji Apple,24,4
+5876,91251.0,Organic Lemon,24,4
+40706,88078.0,Organic Grape Tomatoes,123,4
+8277,87272.0,Apple Honeycrisp Organic,24,4
+4920,86748.0,Seedless Red Grapes,123,4
+30391,85005.0,Organic Cucumber,83,4
+45066,83320.0,Honeycrisp Apple,24,4
+42265,80493.0,Organic Baby Carrots,123,4
+44632,79245.0,Sparkling Water Grapefruit,115,7

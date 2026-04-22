@@ -1,0 +1,8 @@
+metric,value
+orders_row_count,3346083
+products_row_count,49688
+unique_users,206209
+unique_orders,3346083
+unique_products,49688
+min_timestamp,2018-01-01 00:00:00
+max_timestamp,2019-01-07 23:00:00
