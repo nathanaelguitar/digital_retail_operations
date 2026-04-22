@@ -1,0 +1,11 @@
+# Large dataset files
+*.csv
+*.parquet
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
